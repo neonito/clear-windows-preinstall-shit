@@ -1,0 +1,168 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 1000
+STRING Get-AppxPackage *Microsoft.Advertising* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.BingFinance* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.BingNews* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.BingSports* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.CommsPhone* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.ConnectivityStore* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Microsoft3DViewer* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MicrosoftPowerBIForWindows* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MicrosoftStickyNotes* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MinecraftUWP* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Office.OneNote* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.OneDrive* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.People* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Print3D* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.ScreenSketch* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.SkypeApp* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.StorePurchaseApp* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Todos* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Wallet* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.WindowsCamera* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Advertising* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.BingFinance* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.BingNews* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.BingSports* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.CommsPhone* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.ConnectivityStore* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Microsoft3DViewer* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MicrosoftPowerBIForWindows* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MicrosoftStickyNotes* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.MinecraftUWP* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Office.OneNote* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.OneDrive* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.People* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Print3D* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.ScreenSketch* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.SkypeApp* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.StorePurchaseApp* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Todos* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.Wallet* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage
+ENTER
+DELAY 500
+STRING Get-AppxPackage *Microsoft.WindowsCamera* | Remove-AppxPackage
+ENTER
+DELAY 500
